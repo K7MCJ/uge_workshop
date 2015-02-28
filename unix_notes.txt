@@ -1,0 +1,87 @@
+pico   #an editor
+nano   # another editor
+cd     # confirmed I was in home dir
+history |  sort -r |less #an experiment to see if I could reverse sort  and send to less
+history | less # seeing all my history in the less viewer
+h | less # messing around
+h |pipe  #was totally not thinking
+less  #nothing to see here folks
+history  # oh hey, look history.
+history -P   #experimenting
+history |p    #more experimenting.
+ls .          # comparing to previous list
+ls
+clear    #I can clear the screen.
+ahfreosih  # This was garbage intended to create an error.
+ls ../..   #Playing with listing remote dirs.
+cd ..   # next section is  practicing navagating around and viewing files, and manual pages.
+cd..
+subl test.txt
+cd Documents
+cd Videos
+cd Vide
+cd Public
+cd public
+pwd
+ls -ll
+ls -x
+man grep
+man find
+man man
+man ls
+man cls
+ls help
+ls /help
+ls /?
+ls -help
+ls -h
+ls man
+ls -?
+ls -al
+ls -r
+ls
+ls -ltr
+ls -lt
+ls -t
+ls -l
+cd /
+ls -al Downloads/extras/*
+ls -al Downloads/po/
+ls -al Downloads/po/*
+ls -al Downloads/*
+ls downloads
+cl
+cls
+ls Documents/
+cd michael
+cd home
+cd/
+cd \
+ls
+cd\
+ cd
+cd Music
+# everything prior to this point is setup of this laptop.
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name Michael Jacobs
+git config --global user.email archie.goodwin@gmail.com
+git config --global user.name 'Michael Jacobs'
+sudo apt-get install -y git
+echo $EDITOR
+subl ~/.config/fish/config.fish
+subl
+sudo apt-get install -y sublime-text-installer
+sudo apt-get check
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+sudo apt-get install ruby-full
+sudo apt-add-repository -y ppa:fish-shell/release-2
+ls -g
+ls-g
+exit
+quit
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+sudo apt-get update
+uname
