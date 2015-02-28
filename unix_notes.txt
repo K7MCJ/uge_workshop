@@ -1,3 +1,8 @@
+
+# Okay, so I now have opened this file with 'subl . ' and if I had more files in this directory (~/uge_workshop) they would have opened too.
+# blank line
+#
+#
 pico   #an editor
 nano   # another editor
 cd     # confirmed I was in home dir
