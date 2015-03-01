@@ -1,3 +1,8 @@
 # Allllllll Righty then.
 # They call me Cuban Pete, King of the Samba beat...
 # adding this file to work on branches.
+#
+#
+# Now, we've created a repository on github and pushed
+#the master branch.  I am altering this, so it's out of
+# sync and then we will send it to github too.
